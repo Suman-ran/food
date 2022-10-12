@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/food.github.io/static/css/main.42368136.css",
+    "main.js": "/food.github.io/static/js/main.6d298964.js",
+    "static/media/meals.jpg": "/food.github.io/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/food.github.io/index.html",
+    "main.42368136.css.map": "/food.github.io/static/css/main.42368136.css.map",
+    "main.6d298964.js.map": "/food.github.io/static/js/main.6d298964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42368136.css",
+    "static/js/main.6d298964.js"
+  ]
+}
